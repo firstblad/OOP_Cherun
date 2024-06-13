@@ -1,0 +1,14 @@
+/Users/admin/Downloads/opp_labs/lab5_sharp/bin/Debug/net8.0/lab5_sharp
+/Users/admin/Downloads/opp_labs/lab5_sharp/bin/Debug/net8.0/lab5_sharp.deps.json
+/Users/admin/Downloads/opp_labs/lab5_sharp/bin/Debug/net8.0/lab5_sharp.runtimeconfig.json
+/Users/admin/Downloads/opp_labs/lab5_sharp/bin/Debug/net8.0/lab5_sharp.dll
+/Users/admin/Downloads/opp_labs/lab5_sharp/bin/Debug/net8.0/lab5_sharp.pdb
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.AssemblyInfoInputs.cache
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.AssemblyInfo.cs
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.dll
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/refint/lab5_sharp.dll
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.pdb
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/lab5_sharp.genruntimeconfig.cache
+/Users/admin/Downloads/opp_labs/lab5_sharp/obj/Debug/net8.0/ref/lab5_sharp.dll
